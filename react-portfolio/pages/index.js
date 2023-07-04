@@ -10,8 +10,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main></main>
+      <main>
+        <section className="bg-blue-700 min-h-screen">
+<h1>fd</h1>
+        </section>
+      </main>
 
     </div>
-  )
+  );
 }
